@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Volleyball</string>
+    <string name="textView_name">myTextView</string>
+    <string name="textView2_name">myTextView2</string>
+    <string name="textView3_name">myTextView3</string>
+    <string name="button1_name">home</string>
+    <string name="button3_name">home2</string>
+    <string name="button2_name">guest</string>
+    <string name="button4_name">guest2</string>
+    <string name="clicker_name">0</string>
+</resources>
